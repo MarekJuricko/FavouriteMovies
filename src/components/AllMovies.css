@@ -1,0 +1,33 @@
+.one-movie{
+    background-color: rgb(60, 60, 60);
+    border: 1px solid black;
+    border-radius: 2%;
+    width: 20vw;
+    padding: 2vh 2vw;
+    margin: 2.5vh 2.5vw;
+    text-align: center;
+}
+
+.image{
+    border: 1px solid black;
+    border-radius: 2%;
+    max-height: 35vh;
+}
+
+.main-heading{
+    font-size: 25px;
+}
+
+.info{
+    font-size: 15px;
+}
+
+.link{
+    font-size: 20px;
+    padding: 2px 5px;
+    border: 1px solid wheat;
+    background-color: wheat;
+    border-radius: 10%;
+    text-decoration: none;
+    color: black;
+}
